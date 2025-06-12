@@ -1,16 +1,16 @@
 import { Routes, Route, Navigate } from "react-router-dom";
-import FloatingShapes from "./components/FloatingShapes";
-import SignupPage from "./pages/SignupPage";
-import LoginPage from "./pages/LoginPage";
-import EmailVerificationPage from "./pages/EmailVerificationPage";
+import FloatingShapes from "./components/FloatingShapes.jsx";
+import SignupPage from "./pages/SignupPage.jsx";
+import LoginPage from "./pages/LoginPage.jsx";
+import EmailVerificationPage from "./pages/EmailVerificationPage.jsx";
 
 import { Toaster } from "react-hot-toast";
-import { useAuthStore } from "./store/authStore";
+import { useAuthStore } from "./store/authStore.js";
 import { useEffect } from "react";
-import DashBoardPage from "./pages/DashBoardPage";
-import LoadingSpinner from "./components/LoadingSpinner";
-import ForgotPasswordPage from "./pages/ForgotPasswordPage";
-import ResetPasswordPage from "./pages/ResetPasswordPage";
+import DashBoardPage from "./pages/DashboardPage.jsx";
+import LoadingSpinner from "./components/LoadingSpinner.jsx";
+import ForgotPasswordPage from "./pages/ForgotPasswordPage.jsx";
+import ResetPasswordPage from "./pages/ResetPasswordPage.jsx";
 
 // Redirect authenticated users to home page
 const RedirectAuthenticatedUser = ({ children }) => {
