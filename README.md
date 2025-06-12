@@ -3,8 +3,8 @@
 A complete Fullstack Authentication System built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project provides a robust and secure foundation for user authentication in modern web applications.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/fullstack-authentication-system?style=social)](https://github.com/YOUR_GITHUB_USERNAME/fullstack-authentication-system)
-[![GitHub Forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/fullstack-authentication-system?style=social)](https://github.com/YOUR_GITHUB_USERNAME/fullstack-authentication-system)
+[![GitHub Stars](https://img.shields.io/github/stars/darksword7/fullstack-authentication-system?style=social)](https://github.com/darksword7/fullstack-authentication-system)
+[![GitHub Forks](https://img.shields.io/github/forks/darksword7/fullstack-authentication-system?style=social)](https://github.com/darksword7/fullstack-authentication-system)
 [![Language: JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
