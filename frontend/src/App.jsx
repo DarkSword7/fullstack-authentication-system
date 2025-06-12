@@ -5,7 +5,7 @@ import LoginPage from "./pages/LoginPage.jsx";
 import EmailVerificationPage from "./pages/EmailVerificationPage.jsx";
 
 import { Toaster } from "react-hot-toast";
-import { useAuthStore } from "./store/authStore.js";
+import { useAuthStore } from "./store/authStore";
 import { useEffect } from "react";
 import DashBoardPage from "./pages/DashboardPage.jsx";
 import LoadingSpinner from "./components/LoadingSpinner.jsx";
